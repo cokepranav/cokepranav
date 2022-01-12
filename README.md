@@ -1,10 +1,10 @@
 ### Hi there, I'm Sai Pranav - aka cokepranav 👋 
 
+--
 
 ## I'm a Student & Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything App dev
+- 🌱 I’m currently learning everything about App dev
 - 👀 I’m interested in development
 - 💞️ I’m looking to collaborate on devs
 - 👯 I’m looking to collaborate with other developers
