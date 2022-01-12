@@ -1,6 +1,6 @@
 ### Hi there, I'm Sai Pranav - aka cokepranav 👋 
 
---
+---
 
 ## I'm a Student & Developer !!
 
@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play games
 - 📫 How to reach me v.saiprani123@gmail.com
+---
 
 ### Connect with me:
 
