@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/images/e370275244a960ea563490fc6078a859/tenor.gif?itemid=17389374" alt="it's me!!" style="width:1000px;height:500px;">
+<img src="https://media1.tenor.com/images/e370275244a960ea563490fc6078a859/tenor.gif?itemid=17389374" alt="it's me!!" style="width:800px;height:350px;">
 
 ### Hi there, I'm Sai Pranav - aka cokepranav 👋 
 
